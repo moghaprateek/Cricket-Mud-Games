@@ -1,0 +1,8 @@
+PACE|INSWING,FLICK|On Drive|Straight Drive|Off Drive:6|4|2|-1
+PACE|OUTSWING,Cover Drive|Lofted Drive|Straight Drive|Defence:4|6|0|-1
+PACE|Straight,Cover Drive|Lofted Drive|Straight Drive|Defence:4|6|4|-1
+PACE|Short Ball,Pull|Hook|Leave|Backfoot Defence:6|-1|0|0
+SPIN|OFFSPIN,Cover Drive|Lofted Shot|Straight Drive|Defence:2|6|-1|0
+SPIN|LEGSPIN,Cover Drive|Lofted Drive|Straight Drive|CUT:-1|6|2|4
+SPIN|Googly,Cover Drive|Off Drive|Straight Drive|Defence:-1|4|2|0
+SPIN|Doosra,Cover Drive|Off Drive|Defence|Lofted:4|-1|0|6
